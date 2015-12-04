@@ -1,0 +1,52 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22-feb-2015, 18:50:41
+    Author     : Hector
+*/
+h1, h2, h3, h4, h5, h6, body{
+font-family: "klavika-web", "Helvetica Neue", Helvetica, Arial, Geneva, sans-serif !important;
+}
+body{
+    font-size: 12px;
+}
+
+
+.ui-menu { 
+    width: 200px; 
+    font-size: 10px;
+}
+.ui-widget-header { 
+    padding: 0.2em; 
+    font-size: 12px;
+}
+
+footer {
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:30px;
+   width:100%;
+}
+  
+#menuDiv{
+    position:absolute;
+    width: 15%;
+}
+
+#contentDiv{
+    position:absolute;
+    left: 16%;
+    width: 80%;
+}
+
+.hide{
+    display: none;
+}
+
+.align-center{
+    text-align: center;
+}

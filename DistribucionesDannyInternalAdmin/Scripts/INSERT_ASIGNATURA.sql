@@ -1,0 +1,13 @@
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Matematicas', 'MATH');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Español', 'ESP');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Ingles', 'ING');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Ciencias Naturales', 'CNAT');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Ciencias Sociales', 'CSOC');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Quimica', 'QUI');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Fisica', 'FIS');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Filosofia', 'FIL');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Comprension Lectora', 'CLEC');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Literatura', 'LIT');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Etica', 'ETI');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Religion', 'REL');
+INSERT INTO `distdanny`.`dist_asignatura` (`NOMBRE`, `CODIGO`) VALUES ('Otra', 'OTR');
