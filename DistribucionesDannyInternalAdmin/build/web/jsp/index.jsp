@@ -16,8 +16,9 @@
         <script src="../js/index.js" type="text/javascript"></script>
         <title>Index</title>
     </head>
+    <!--comentario Andres -->
     <body>
-        <header></header>
+        <header> </header>
         <div id="menuDiv">
                     <ul id="menu">
                     <li class="ui-widget-header">Administracion Datos</li>
